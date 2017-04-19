@@ -12,6 +12,7 @@
 
 @interface OCTableViewCell()
 
+
 @property (weak, nonatomic)  UILabel *labeltitle;//标题
 @property (weak, nonatomic)  UIImageView *pictureView;//大图
 @property (weak, nonatomic)UILabel *labelContont;//内容
