@@ -10,7 +10,7 @@
 #import "OCTableViewCell.h"
 @interface OCViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic,strong) UITableView * tableView;
-//总数据
+//总数据修改
 @property (nonatomic,strong) NSMutableArray *dataSouse;
 @end
 
